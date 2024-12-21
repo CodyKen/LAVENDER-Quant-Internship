@@ -14,7 +14,7 @@ This repository contains the implementation of a **Single-Factor Backtesting Fra
   - Sharpe ratio.
   - Maximum drawdown.
   - calmar ratio.
-- Time-series analysis of factor efficacy.
+- Time-series analysis of factor effectiveness.
 
 ### 4. **Visualization Tools**
 - Plot key results:
