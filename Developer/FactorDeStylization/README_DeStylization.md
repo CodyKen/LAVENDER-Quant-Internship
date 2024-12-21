@@ -34,10 +34,3 @@ This repository provides a **Factor De-Stylization and Orthogonalization Framewo
 
 The use of `polars` ensures fast data manipulation, especially on large datasets.
 
-### Installation
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
-
