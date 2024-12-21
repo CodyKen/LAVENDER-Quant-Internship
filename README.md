@@ -30,7 +30,7 @@ Key features include:
 - Outliers Removal.  
 - Regression-based de-stylization techniques.  
 
-Learn more [here](./Developer/FactorDeStylization/README.md).  
+Learn more [here](./Developer/FactorDeStylization/README_DeStylization.md).  
 
 ---
 
