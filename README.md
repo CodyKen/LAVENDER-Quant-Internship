@@ -20,7 +20,7 @@ This module focuses on creating a robust and efficient framework for testing his
 - Support for various performance metrics, including annual returns, maxdrawdown, and Sharpe ratio.  
 - Support for plotting curves (e.g. historical return curves).  
 
-Check out the [framework details](./Developer/SingleFactorBacktest/README.md).  
+Check out the [framework details](./Developer/SingleFactorBacktest/README_Backtest.md).  
 
 ---
 
