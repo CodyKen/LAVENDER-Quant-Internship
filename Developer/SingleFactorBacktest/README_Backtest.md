@@ -36,10 +36,10 @@ This repository contains the implementation of a **Single-Factor Backtesting Fra
 - Python 3.8 or higher
 - Key dependencies:
   - `polars`
-  - `numpy`
   - `matplotlib`
   - `scipy`
 
+Here we use polars instead of numpy to make the program run faster.
 
 ## Acknowledgments
 - Inspiration from widely used financial libraries.
