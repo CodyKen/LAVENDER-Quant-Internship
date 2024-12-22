@@ -17,7 +17,10 @@ This repository provides a **Factor Correlation Analysis Framework** designed to
 - The framework is designed to be modular, allowing users to:
   - Integrate new factors or datasets.
 
-### 4. **Efficient Implementation**
+### 4. **Dataset Partitioning**
+- **Data Partitioning**: Break up datasets into training set and testing set based on specific time stamps.
+
+### 5. **Efficient Implementation**
 - Optimized for fast performance using `polars`, a high-performance DataFrame library, making it suitable for large-scale financial datasets.
 
 ---
