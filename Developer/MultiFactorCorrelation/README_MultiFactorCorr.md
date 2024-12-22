@@ -12,7 +12,6 @@ This repository provides a **Factor Correlation Analysis Framework** designed to
 - **Spearman Rank Correlation**: Computes the Spearman rank correlation matrix, measuring the monotonic relationship between factors.
 - **Kendall Tau Correlation**: Computes the Kendall Tau correlation matrix, which assesses the ordinal association between factors.
 - **MINE (Maximal Information-based Nonparametric Exploration)**: Computes the MINE correlation matrix, which identifies non-linear relationships between factors based on mutual information.
-- **Time-series Correlation**: Computes correlations for each time slice individually (i.e., per `open_time`) and returns the average correlation values across all time slices.
 
 ### 3. **Modular and Extensible**
 - The framework is designed to be modular and easily extendable, allowing users to:
