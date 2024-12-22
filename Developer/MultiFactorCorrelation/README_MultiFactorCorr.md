@@ -32,6 +32,7 @@ This repository provides a **Factor Correlation Analysis Framework** designed to
 - Python 3.8 or higher
 - Key dependencies:
   - `polars`
+  - `numpy`
   - `scipy`
   - `minepy`
 
