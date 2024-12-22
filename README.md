@@ -39,7 +39,7 @@ This module focuses on understanding and quantifying correlations between multip
 - Statistical tools for pairwise correlation analysis.  
 - Split the dataset into training set and testing set based on the desired timestamp.
 
-Explore the details in the [documentation](./Developer/MultiFactorCorrelation/README.md).  
+Explore the details in the [documentation](./Developer/MultiFactorCorrelation/README_MultiFactorCorr.md).  
 
 ---
 
