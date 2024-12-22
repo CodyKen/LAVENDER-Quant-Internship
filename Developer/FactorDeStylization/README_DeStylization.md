@@ -1,12 +1,11 @@
-# Factor De-Stylization and Orthogonalization Framework
+# Factor De-Stylization Framework
 
-This repository provides a **Factor De-Stylization and Orthogonalization Framework** designed to help quantitative researchers process financial factors for strategy development and evaluation. The framework allows users to clean and orthogonalize factors by removing extreme values and performing regression-based factor de-stylization in a systematic and modular way.
+This repository provides a **Factor De-Stylization Framework** designed to help quantitative researchers process financial factors for strategy development and evaluation. The framework allows users to clean and orthogonalize factors by removing extreme values and performing regression-based factor de-stylization in a systematic and modular way.
 
 ## Features
 
-### 1. **De-Stylization of Factors**
+### 1. **Outiers Removal**
 - **Remove extreme values**: Handles extreme outliers using the Median Absolute Deviation (MAD) method, replacing values that are beyond 5 times the MAD from the median with boundary values.
-- **Time-series based cleaning**: Applies outlier removal on each time slice (e.g., per `open_time`).
 
 ### 2. **Orthogonalization of Factors**
 - **Regression-based de-stylization**: Removes the linear relationship between a factor (e.g., `alpha008`) and another market factor (e.g., `close`) by fitting a linear regression model and retaining the residuals.
@@ -14,8 +13,7 @@ This repository provides a **Factor De-Stylization and Orthogonalization Framewo
 
 ### 3. **Modular and Extensible**
 - The framework allows users to:
-  - Easily integrate new financial factors.
-  - Customize the outlier removal and orthogonalization processes.
+  - Easily integrate new factors.
   - Adapt the framework to different time series datasets.
 
 ### 4. **Efficient Implementation**
