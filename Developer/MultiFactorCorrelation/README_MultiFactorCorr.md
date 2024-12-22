@@ -13,12 +13,12 @@ This repository provides a **Factor Correlation Analysis Framework** designed to
 - **Kendall Tau Correlation**: Computes the Kendall Tau correlation matrix, which assesses the ordinal association between factors.
 - **MINE (Maximal Information-based Nonparametric Exploration)**: Computes the MINE correlation matrix, which identifies non-linear relationships between factors based on mutual information.
 
-### 3. **Modular**
+### 3. **Dataset Partitioning**
+- **Data Partitioning**: Break up datasets into training set and testing set based on specific time stamps.
+  
+### 4. **Modular**
 - The framework is designed to be modular, allowing users to:
   - Integrate new factors or datasets.
-
-### 4. **Dataset Partitioning**
-- **Data Partitioning**: Break up datasets into training set and testing set based on specific time stamps.
 
 ### 5. **Efficient Implementation**
 - Optimized for fast performance using `polars`, a high-performance DataFrame library, making it suitable for large-scale financial datasets.
