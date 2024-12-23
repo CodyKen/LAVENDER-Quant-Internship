@@ -30,11 +30,6 @@ This repository contains a collection of **financial factors** that I have devel
 - Key dependencies:
   - `polars`
   - `numpy`
-  - `pandas`
   - `scipy`
   - `statsmodels`
-
-To install the necessary libraries, you can use `pip`:
-```bash
-pip install polars numpy pandas scipy statsmodels
 
