@@ -11,7 +11,7 @@ This repository contains a collection of **financial factors** that I have devel
 
 ### 2. **Factor Evaluation Criteria**
 - **Sharpe Ratio**: The effectiveness of a factor is evaluated based on its **historical backtest performance**, with a minimum target **Sharpe ratio of 0.7**.
-- **Backtest Framework**: I used the backtest framework outlined in the [Developer Documentation](./Developer/SingleFactorBacktest/README_Backtest.md) to evaluate the factors. The historical backtest involves trading based on the factor values, and the Sharpe ratio is calculated to measure the factor's risk-adjusted return.
+- **Backtest Framework**: I used the backtest framework outlined in the [Developer Documentation](main/Developer/SingleFactorBacktest/README_Backtest.md) to evaluate the factors. The historical backtest involves trading based on the factor values, and the Sharpe ratio is calculated to measure the factor's risk-adjusted return.
 
 ### 3. **Correlation with Style Factors**
 - Some of the factors in this portfolio may exhibit high correlations with commonly used **style factors**, such as:
