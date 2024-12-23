@@ -50,7 +50,7 @@ Utilized in-depth financial research reports to systematically extract novel fac
 - Building a pipeline for transforming qualitative insights into quantitative factors.  
 - Testing extracted factors against performance benchmarks in backtesting simulations.  
 
-Detailed steps and examples can be found [here](./Researcher/FactorExploration/README.md).  
+Detailed steps and examples can be found [here](./Researcher/FactorExploration/README_FactorExploration.md).  
 
 ---
 
